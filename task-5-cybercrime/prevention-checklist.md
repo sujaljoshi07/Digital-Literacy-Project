@@ -1,0 +1,10 @@
+- Do not click on unknown links
+- Always verify sender email addresses
+- Use strong passwords
+- Enable two-factor authentication
+- Never share OTPs
+- Check website URLs carefully
+- Avoid public WiFi for transactions
+- Regularly update software
+- Use official apps for UPI payments
+- Report fraud at cybercrime.gov.in or call 1930
